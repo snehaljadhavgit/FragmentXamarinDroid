@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{DE045935-5A83-4D77-BEEB-7DF006B1D15F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Droid/Fragments/SecondFragment.cs">
+    <Files>
+      <File FileName="Droid/Fragments/FirstFragment.cs" Line="52" Column="32" />
+      <File FileName="Droid/Fragments/SecondFragment.cs" Line="20" Column="9" />
+      <File FileName="Droid/MainActivity.cs" Line="24" Column="45" />
+      <File FileName="Droid/Resources/values/styles.xml" Line="11" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FragmentComponent.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.C23ADB16-6E9A-46F9-919F-4E889EA4CAC0">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.FragmentComponent.iOS>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.FragmentComponent.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
+</Properties>

@@ -1,0 +1,14 @@
+/Users/sjadhav/Projects/FragmentComponent/iOS/bin/iPhoneSimulator/Debug/FragmentComponent.iOS.exe
+/Users/sjadhav/Projects/FragmentComponent/iOS/bin/iPhoneSimulator/Debug/FragmentComponent.iOS.pdb
+/Users/sjadhav/Projects/FragmentComponent/iOS/bin/iPhoneSimulator/Debug/FragmentComponent.dll
+/Users/sjadhav/Projects/FragmentComponent/iOS/bin/iPhoneSimulator/Debug/FragmentComponent.pdb
+/Users/sjadhav/Projects/FragmentComponent/iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/sjadhav/Projects/FragmentComponent/iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/sjadhav/Projects/FragmentComponent/iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/sjadhav/Projects/FragmentComponent/iOS/obj/iPhoneSimulator/Debug/coremlc/_PartialAppManifest.items
+/Users/sjadhav/Projects/FragmentComponent/iOS/obj/iPhoneSimulator/Debug/coremlc/_BundleResourceWithLogicalName.items
+/Users/sjadhav/Projects/FragmentComponent/iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/sjadhav/Projects/FragmentComponent/iOS/obj/iPhoneSimulator/Debug/FragmentComponent.iOS.csprojResolveAssemblyReference.cache
+/Users/sjadhav/Projects/FragmentComponent/iOS/obj/iPhoneSimulator/Debug/FragmentComponent.iOS.csproj.CoreCompileInputs.cache
+/Users/sjadhav/Projects/FragmentComponent/iOS/obj/iPhoneSimulator/Debug/FragmentComponent.iOS.exe
+/Users/sjadhav/Projects/FragmentComponent/iOS/obj/iPhoneSimulator/Debug/FragmentComponent.iOS.pdb
