@@ -2,7 +2,7 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="Droid/Fragments/SecondFragment.cs">
     <Files>
       <File FileName="Droid/Fragments/FirstFragment.cs" Line="52" Column="32" />
-      <File FileName="Droid/Fragments/SecondFragment.cs" Line="20" Column="9" />
+      <File FileName="Droid/Fragments/SecondFragment.cs" Line="20" Column="1" />
       <File FileName="Droid/MainActivity.cs" Line="24" Column="45" />
       <File FileName="Droid/Resources/values/styles.xml" Line="11" Column="33" />
     </Files>

@@ -37,6 +37,13 @@
 /Users/sjadhav/Projects/FragmentComponent/Droid/obj/Debug/uploadflags.txt
 /Users/sjadhav/Projects/FragmentComponent/Droid/obj/Debug/res/values/styles.xml
 /Users/sjadhav/Projects/FragmentComponent/Droid/obj/Debug/res/values/colors.xml
+/Users/sjadhav/Projects/FragmentComponent/Droid/bin/Debug/Microsoft.AppCenter.Analytics.Android.Bindings.dll
+/Users/sjadhav/Projects/FragmentComponent/Droid/bin/Debug/Microsoft.AppCenter.Analytics.dll
+/Users/sjadhav/Projects/FragmentComponent/Droid/bin/Debug/Microsoft.AppCenter.Android.Bindings.dll
+/Users/sjadhav/Projects/FragmentComponent/Droid/bin/Debug/Microsoft.AppCenter.Crashes.Android.Bindings.dll
+/Users/sjadhav/Projects/FragmentComponent/Droid/bin/Debug/Microsoft.AppCenter.Crashes.dll
+/Users/sjadhav/Projects/FragmentComponent/Droid/bin/Debug/Microsoft.AppCenter.dll
+/Users/sjadhav/Projects/FragmentComponent/Droid/obj/Debug/R.txt
 /Users/sjadhav/Projects/FragmentComponent/Droid/bin/Debug/Mono.Android.pdb
 /Users/sjadhav/Projects/FragmentComponent/Droid/obj/Debug/linksrc/FragmentComponent.Droid.pdb
 /Users/sjadhav/Projects/FragmentComponent/Droid/obj/Debug/linksrc/FragmentComponent.pdb

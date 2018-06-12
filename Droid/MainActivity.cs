@@ -3,6 +3,10 @@ using Android.Widget;
 using Android.OS;
 using Android.Support.V7.App;
 using FragmentComponent.Droid.Fragments;
+using Microsoft.AppCenter;
+using Microsoft.AppCenter.Analytics;
+using Microsoft.AppCenter.Crashes;
+
 
 namespace FragmentComponent.Droid
 {
@@ -27,6 +31,9 @@ namespace FragmentComponent.Droid
 
             SupportFragmentManager.BeginTransaction().Replace(Resource.Id.firstFragment, firstFragment).Commit();
             SupportFragmentManager.BeginTransaction().Replace(Resource.Id.secondFragment, secondFragment).Commit();
+
+            AppCenter.Start("d9bc2926-3362-4bfa-b8f4-52448cb072fd", typeof(Analytics), typeof(Crashes));
+
         }
 
         public void OnCountButtonTapped()

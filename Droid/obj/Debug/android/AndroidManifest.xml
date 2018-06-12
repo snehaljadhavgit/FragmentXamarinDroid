@@ -5,7 +5,7 @@
   <uses-permission android:name="android.permission.INTERNET" />
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
   <application android:label="FragmentComponent" android:name="android.app.Application" android:allowBackup="true" android:icon="@mipmap/icon" android:debuggable="true">
-    <activity android:icon="@mipmap/icon" android:label="FragmentComponent" android:theme="@style/AppTheme" android:name="md527c4a7a1c5930816408999b0fcb34085.MainActivity">
+    <activity android:icon="@mipmap/icon" android:label="FragmentComponent" android:theme="@style/AppTheme" android:name="md516ad49118f11d04a53ea5e44dd11b0e4.MainActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
         <category android:name="android.intent.category.LAUNCHER" />
@@ -20,4 +20,5 @@
       </intent-filter>
     </receiver>
   </application>
+  <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 </manifest>

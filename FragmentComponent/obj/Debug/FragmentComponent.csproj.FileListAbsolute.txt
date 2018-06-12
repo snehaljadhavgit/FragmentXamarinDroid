@@ -3,3 +3,4 @@
 /Users/sjadhav/Projects/FragmentComponent/FragmentComponent/obj/Debug/FragmentComponent.csproj.CoreCompileInputs.cache
 /Users/sjadhav/Projects/FragmentComponent/FragmentComponent/obj/Debug/FragmentComponent.dll
 /Users/sjadhav/Projects/FragmentComponent/FragmentComponent/obj/Debug/FragmentComponent.pdb
+/Users/sjadhav/Projects/FragmentComponent/FragmentComponent/obj/Debug/FragmentComponent.csprojResolveAssemblyReference.cache
