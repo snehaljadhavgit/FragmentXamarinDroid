@@ -20,32 +20,8 @@
     <Jar>/Users/sjadhav/Projects/FragmentComponent/Droid/obj/Debug/lp/8/jl/bin/classes.jar</Jar>
     <Jar>/Users/sjadhav/Projects/FragmentComponent/Droid/obj/Debug/lp/9/jl/bin/classes.jar</Jar>
   </Jars>
-  <ResolvedResourceDirectories>
-    <ResolvedResourceDirectory>/Users/sjadhav/Projects/FragmentComponent/Droid/obj/Debug/lp/18/jl/res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>/Users/sjadhav/Projects/FragmentComponent/Droid/obj/Debug/lp/21/jl/res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>/Users/sjadhav/Projects/FragmentComponent/Droid/obj/Debug/lp/22/jl/res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>/Users/sjadhav/Projects/FragmentComponent/Droid/obj/Debug/lp/7/jl/res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>/Users/sjadhav/Projects/FragmentComponent/Droid/obj/Debug/lp/10/jl/res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>/Users/sjadhav/Projects/FragmentComponent/Droid/obj/Debug/lp/12/jl/res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>/Users/sjadhav/Projects/FragmentComponent/Droid/obj/Debug/lp/13/jl/res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>/Users/sjadhav/Projects/FragmentComponent/Droid/obj/Debug/lp/14/jl/res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>/Users/sjadhav/Projects/FragmentComponent/Droid/obj/Debug/lp/15/jl/res</ResolvedResourceDirectory>
-  </ResolvedResourceDirectories>
-  <ResolvedAssetDirectories>
-    <ResolvedAssetDirectory>obj/Debug/lp/18/jl/assets</ResolvedAssetDirectory>
-    <ResolvedAssetDirectory>obj/Debug/lp/21/jl/assets</ResolvedAssetDirectory>
-    <ResolvedAssetDirectory>obj/Debug/lp/22/jl/assets</ResolvedAssetDirectory>
-  </ResolvedAssetDirectories>
+  <ResolvedResourceDirectories />
+  <ResolvedAssetDirectories />
   <ResolvedEnvironmentFiles />
-  <ResolvedResourceDirectoryStamps>
-    <ResolvedResourceDirectoryStamp>/Users/sjadhav/Projects/FragmentComponent/Droid/obj/Debug/lp/18.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>/Users/sjadhav/Projects/FragmentComponent/Droid/obj/Debug/lp/21.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>/Users/sjadhav/Projects/FragmentComponent/Droid/obj/Debug/lp/22.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>/Users/sjadhav/Projects/FragmentComponent/Droid/obj/Debug/lp/7.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>/Users/sjadhav/Projects/FragmentComponent/Droid/obj/Debug/lp/10.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>/Users/sjadhav/Projects/FragmentComponent/Droid/obj/Debug/lp/12.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>/Users/sjadhav/Projects/FragmentComponent/Droid/obj/Debug/lp/13.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>/Users/sjadhav/Projects/FragmentComponent/Droid/obj/Debug/lp/14.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>/Users/sjadhav/Projects/FragmentComponent/Droid/obj/Debug/lp/15.stamp</ResolvedResourceDirectoryStamp>
-  </ResolvedResourceDirectoryStamps>
+  <ResolvedResourceDirectoryStamps />
 </Paths>

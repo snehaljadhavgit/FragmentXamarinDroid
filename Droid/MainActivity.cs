@@ -32,6 +32,7 @@ namespace FragmentComponent.Droid
             SupportFragmentManager.BeginTransaction().Replace(Resource.Id.firstFragment, firstFragment).Commit();
             SupportFragmentManager.BeginTransaction().Replace(Resource.Id.secondFragment, secondFragment).Commit();
 
+
             AppCenter.Start("d9bc2926-3362-4bfa-b8f4-52448cb072fd", typeof(Analytics), typeof(Crashes));
 
         }
