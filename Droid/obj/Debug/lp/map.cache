@@ -1,4 +1,12 @@
 FragmentComponent
+Microsoft.AppCenter.Analytics.Android.Bindings
+Microsoft.AppCenter.Analytics
+Microsoft.AppCenter.Android.Bindings
+Microsoft.AppCenter.Crashes.Android.Bindings
+Microsoft.AppCenter.Crashes
+Microsoft.AppCenter
+Microsoft.AppCenter.Push.Android.Bindings
+Microsoft.AppCenter.Push
 System.Runtime
 Xamarin.Android.Arch.Core.Common
 Xamarin.Android.Arch.Lifecycle.Common
@@ -15,9 +23,3 @@ Xamarin.Android.Support.Transition
 Xamarin.Android.Support.v7.AppCompat
 Xamarin.Android.Support.v7.RecyclerView
 Xamarin.Android.Support.Vector.Drawable
-Microsoft.AppCenter.Analytics.Android.Bindings
-Microsoft.AppCenter.Analytics
-Microsoft.AppCenter.Android.Bindings
-Microsoft.AppCenter.Crashes.Android.Bindings
-Microsoft.AppCenter.Crashes
-Microsoft.AppCenter

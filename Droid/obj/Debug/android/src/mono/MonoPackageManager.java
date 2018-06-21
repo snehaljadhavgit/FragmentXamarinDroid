@@ -114,6 +114,8 @@ class MonoPackageManager_Resources {
 		"Microsoft.AppCenter.Crashes.Android.Bindings.dll",
 		"Microsoft.AppCenter.Crashes.dll",
 		"Microsoft.AppCenter.dll",
+		"Microsoft.AppCenter.Push.Android.Bindings.dll",
+		"Microsoft.AppCenter.Push.dll",
 		"Xamarin.Android.Arch.Core.Common.dll",
 		"Xamarin.Android.Arch.Lifecycle.Common.dll",
 		"Xamarin.Android.Arch.Lifecycle.Runtime.dll",

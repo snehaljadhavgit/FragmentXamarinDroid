@@ -1,10 +1,11 @@
 ﻿<Properties StartupConfiguration="{DE045935-5A83-4D77-BEEB-7DF006B1D15F}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Droid/Fragments/SecondFragment.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FragmentComponent Status">
     <Files>
       <File FileName="Droid/Fragments/FirstFragment.cs" Line="52" Column="32" />
-      <File FileName="Droid/Fragments/SecondFragment.cs" Line="20" Column="1" />
-      <File FileName="Droid/MainActivity.cs" Line="24" Column="45" />
-      <File FileName="Droid/Resources/values/styles.xml" Line="11" Column="33" />
+      <File FileName="Droid/Fragments/SecondFragment.cs" Line="53" Column="41" />
+      <File FileName="Droid/MainActivity.cs" Line="17" Column="37" />
+      <File FileName="Droid/Properties/AndroidManifest.xml" Line="11" Column="1" />
+      <File FileName="FragmentComponent Status" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
@@ -16,5 +17,5 @@
     <MonoDevelop.MacDev.AppleDevelopmentTeam />
   </MonoDevelop.Ide.ItemProperties.FragmentComponent.iOS>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.FragmentComponent.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
+  <MonoDevelop.Ide.ItemProperties.FragmentComponent.Droid PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
 </Properties>

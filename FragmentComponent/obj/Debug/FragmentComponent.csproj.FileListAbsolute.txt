@@ -3,4 +3,8 @@
 /Users/sjadhav/Projects/FragmentComponent/FragmentComponent/obj/Debug/FragmentComponent.csproj.CoreCompileInputs.cache
 /Users/sjadhav/Projects/FragmentComponent/FragmentComponent/obj/Debug/FragmentComponent.dll
 /Users/sjadhav/Projects/FragmentComponent/FragmentComponent/obj/Debug/FragmentComponent.pdb
-/Users/sjadhav/Projects/FragmentComponent/FragmentComponent/obj/Debug/FragmentComponent.csprojResolveAssemblyReference.cache
+/Users/sjadhav/XamarinProjects/FragmentComponent/FragmentComponent/bin/Debug/FragmentComponent.dll
+/Users/sjadhav/XamarinProjects/FragmentComponent/FragmentComponent/bin/Debug/FragmentComponent.pdb
+/Users/sjadhav/XamarinProjects/FragmentComponent/FragmentComponent/obj/Debug/FragmentComponent.csproj.CoreCompileInputs.cache
+/Users/sjadhav/XamarinProjects/FragmentComponent/FragmentComponent/obj/Debug/FragmentComponent.dll
+/Users/sjadhav/XamarinProjects/FragmentComponent/FragmentComponent/obj/Debug/FragmentComponent.pdb

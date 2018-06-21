@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.silicus.FragmentComponent">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.silicus.ProjectWithAppCenter">
   <!--suppress UsesMinSdkAttributes-->
   <uses-sdk android:minSdkVersion="15" />
+  <permission android:protectionLevel="signature" android:name="com.silicus.ProjectWithAppCenter.permission.C2D_MESSAGE" />
+  <uses-permission android:name="com.silicus.ProjectWithAppCenter.permission.C2D_MESSAGE" />
   <uses-permission android:name="android.permission.INTERNET" />
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
   <application android:label="FragmentComponent" android:name="android.app.Application" android:allowBackup="true" android:icon="@mipmap/icon" android:debuggable="true">
@@ -11,14 +13,27 @@
         <category android:name="android.intent.category.LAUNCHER" />
       </intent-filter>
     </activity>
-    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="com.silicus.FragmentComponent.mono.MonoRuntimeProvider.__mono_init__" />
+    <receiver android:permission="com.google.android.c2dm.permission.SEND" android:name="md50d7658ca0fc01b95086956189e698682.PushReceiver">
+      <intent-filter>
+        <action android:name="com.google.android.c2dm.intent.REGISTRATION" />
+        <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+        <category android:name="com.silicus.ProjectWithAppCenter" />
+      </intent-filter>
+    </receiver>
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="com.silicus.ProjectWithAppCenter.mono.MonoRuntimeProvider.__mono_init__" />
     <!--suppress ExportedReceiver-->
     <receiver android:name="mono.android.Seppuku">
       <intent-filter>
         <action android:name="mono.android.intent.action.SEPPUKU" />
-        <category android:name="mono.android.intent.category.SEPPUKU.com.silicus.FragmentComponent" />
+        <category android:name="mono.android.intent.category.SEPPUKU.com.silicus.ProjectWithAppCenter" />
       </intent-filter>
     </receiver>
+    <service android:name="com.microsoft.appcenter.push.TokenService" p6:ignore="ExportedService" xmlns:p6="http://schemas.android.com/tools">
+      <intent-filter>
+        <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+      </intent-filter>
+    </service>
   </application>
   <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+  <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
 </manifest>

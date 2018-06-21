@@ -1,3 +1,4 @@
-/Users/sjadhav/Projects/FragmentComponent/iOS/bin/iPhoneSimulator/Debug/FragmentComponent.iOS.app:/Users/sjadhav/Projects/FragmentComponent/iOS/obj/iPhoneSimulator/Debug/mtouch-cache/Link/FragmentComponent.iOS.exe
-/Users/sjadhav/Projects/FragmentComponent/iOS/bin/iPhoneSimulator/Debug/FragmentComponent.iOS.app:/Users/sjadhav/Projects/FragmentComponent/iOS/obj/iPhoneSimulator/Debug/mtouch-cache/Link/mscorlib.dll
-/Users/sjadhav/Projects/FragmentComponent/iOS/bin/iPhoneSimulator/Debug/FragmentComponent.iOS.app:/Users/sjadhav/Projects/FragmentComponent/iOS/obj/iPhoneSimulator/Debug/mtouch-cache/Link/Xamarin.iOS.dll
+RemoveDynamicRegistrar:false
+/Users/sjadhav/XamarinProjects/FragmentComponent/iOS/bin/iPhoneSimulator/Debug/FragmentComponent.iOS.app:/Users/sjadhav/XamarinProjects/FragmentComponent/iOS/obj/iPhoneSimulator/Debug/mtouch-cache/Link/FragmentComponent.iOS.exe
+/Users/sjadhav/XamarinProjects/FragmentComponent/iOS/bin/iPhoneSimulator/Debug/FragmentComponent.iOS.app:/Users/sjadhav/XamarinProjects/FragmentComponent/iOS/obj/iPhoneSimulator/Debug/mtouch-cache/Link/mscorlib.dll
+/Users/sjadhav/XamarinProjects/FragmentComponent/iOS/bin/iPhoneSimulator/Debug/FragmentComponent.iOS.app:/Users/sjadhav/XamarinProjects/FragmentComponent/iOS/obj/iPhoneSimulator/Debug/mtouch-cache/Link/Xamarin.iOS.dll

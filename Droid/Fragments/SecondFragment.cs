@@ -11,6 +11,8 @@ using Android.Runtime;
 using Android.Support.V4.App;
 using Android.Views;
 using Android.Widget;
+using Microsoft.AppCenter.Analytics;
+using Microsoft.AppCenter.Crashes;
 
 namespace FragmentComponent.Droid.Fragments
 {
@@ -39,8 +41,26 @@ namespace FragmentComponent.Droid.Fragments
         }
 
         public void CountButtonPressed(){
-            ++count;
-            textView.Text = "Count: " + count;
+            try
+            {
+
+                    ++count;
+                    textView.Text = "Count: " + count;
+
+                    if (count > 10)
+                    {
+
+                        textView = null;
+                        textView.Text = "Nullable string";
+                    }
+                Analytics.TrackEvent(count.ToString());
+               // Analytics.TrackEvent("Line 2 count button");
+               }
+            catch (Exception exception)
+            {
+                Crashes.TrackError(exception);
+            }
+
         }
     }
 }

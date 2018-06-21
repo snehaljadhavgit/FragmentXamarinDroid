@@ -6,8 +6,23 @@
 	<dict>
 		<key>output-files</key>
 		<array>
-			<string>/Users/sjadhav/Projects/FragmentComponent/iOS/obj/iPhoneSimulator/Debug/actool/partial-info.plist</string>
+			<string>/Users/sjadhav/XamarinProjects/FragmentComponent/iOS/obj/iPhoneSimulator/Debug/actool/partial-info.plist</string>
 		</array>
 	</dict>
+	<key>com.apple.actool.document.warnings</key>
+	<array>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcon.appiconset/[][ios-marketing][][][][1x][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/sjadhav/XamarinProjects/FragmentComponent/iOS/obj/iPhoneSimulator/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The app icon set "AppIcon" has an unassigned child.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+	</array>
 </dict>
 </plist>

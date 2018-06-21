@@ -1,19 +1,19 @@
-# Version: 11.9.1.24 (xcode9.3: f62de472)
-# [first argument, ignore] # --cache=/Users/sjadhav/Projects/FragmentComponent/iOS/obj/iPhoneSimulator/Debug/mtouch-cache
-/Library/Frameworks/Xamarin.iOS.framework/Versions/11.9.1.24/lib/mtouch/mtouch.exe \
-	--sim=/Users/sjadhav/Projects/FragmentComponent/iOS/bin/iPhoneSimulator/Debug/FragmentComponent.iOS.app \
+# Version: 11.12.0.4 (d15-7: 64fece5f)
+# [first argument, ignore] # --cache=/Users/sjadhav/XamarinProjects/FragmentComponent/iOS/obj/iPhoneSimulator/Debug/mtouch-cache
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.12.0.4/lib/mtouch/mtouch.exe \
+	--sim=/Users/sjadhav/XamarinProjects/FragmentComponent/iOS/bin/iPhoneSimulator/Debug/FragmentComponent.iOS.app \
 	--executable=FragmentComponent.iOS \
 	--debug \
 	--linksdkonly \
-	'--sdkroot=/Users/sjadhav/Downloads/Xcode 2.app/Contents/Developer' \
-	--sdk=11.2 \
+	--sdkroot=/Applications/Xcode.app/Contents/Developer \
+	--sdk=10.3 \
 	--targetver=8.0 \
 	--aot-options=-O=-float32 \
 	--http-message-handler=HttpClientHandler \
 	--abi=x86_64 \
-	--symbollist=/Users/sjadhav/Projects/FragmentComponent/iOS/obj/iPhoneSimulator/Debug/mtouch-symbols.list \
+	--symbollist=/Users/sjadhav/XamarinProjects/FragmentComponent/iOS/obj/iPhoneSimulator/Debug/mtouch-symbols.list \
 	--dsym=no \
-	-r=/Users/sjadhav/Projects/FragmentComponent/FragmentComponent/bin/Debug/FragmentComponent.dll \
+	-r=/Users/sjadhav/XamarinProjects/FragmentComponent/FragmentComponent/bin/Debug/FragmentComponent.dll \
 	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
 	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll \
 	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
@@ -46,6 +46,7 @@
 	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Facades/System.Diagnostics.TraceEvent.dll \
 	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Facades/System.Diagnostics.TraceSource.dll \
 	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Facades/System.Diagnostics.Tracing.dll \
+	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Facades/System.Drawing.Common.dll \
 	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Facades/System.Drawing.Primitives.dll \
 	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Facades/System.Dynamic.Runtime.dll \
 	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Facades/System.Globalization.Calendars.dll \
@@ -66,6 +67,7 @@
 	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Facades/System.Linq.Expressions.dll \
 	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Facades/System.Linq.Parallel.dll \
 	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Facades/System.Linq.Queryable.dll \
+	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Facades/System.Memory.dll \
 	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Facades/System.Net.AuthenticationManager.dll \
 	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Facades/System.Net.Cache.dll \
 	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Facades/System.Net.HttpListener.dll \
@@ -156,6 +158,6 @@
 	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Facades/System.Xml.XPath.XDocument.dll \
 	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Facades/System.Xml.XPath.XmlDocument.dll \
 	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Facades/System.Xml.Xsl.Primitives.dll \
-	-r=/Users/sjadhav/Projects/FragmentComponent/FragmentComponent/bin/Debug/FragmentComponent.dll \
+	-r=/Users/sjadhav/XamarinProjects/FragmentComponent/FragmentComponent/bin/Debug/FragmentComponent.dll \
 	'--target-framework=Xamarin.iOS,v1.0' \
-	--root-assembly=/Users/sjadhav/Projects/FragmentComponent/iOS/bin/iPhoneSimulator/Debug/FragmentComponent.iOS.exe \
+	--root-assembly=/Users/sjadhav/XamarinProjects/FragmentComponent/iOS/bin/iPhoneSimulator/Debug/FragmentComponent.iOS.exe \

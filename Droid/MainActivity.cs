@@ -6,7 +6,7 @@ using FragmentComponent.Droid.Fragments;
 using Microsoft.AppCenter;
 using Microsoft.AppCenter.Analytics;
 using Microsoft.AppCenter.Crashes;
-
+using Microsoft.AppCenter.Push;
 
 namespace FragmentComponent.Droid
 {
@@ -32,14 +32,17 @@ namespace FragmentComponent.Droid
             SupportFragmentManager.BeginTransaction().Replace(Resource.Id.firstFragment, firstFragment).Commit();
             SupportFragmentManager.BeginTransaction().Replace(Resource.Id.secondFragment, secondFragment).Commit();
 
+            AppCenter.LogLevel = LogLevel.Verbose;
 
-            AppCenter.Start("d9bc2926-3362-4bfa-b8f4-52448cb072fd", typeof(Analytics), typeof(Crashes));
+            AppCenter.Start("d9bc2926-3362-4bfa-b8f4-52448cb072fd", typeof(Analytics), typeof(Crashes), typeof(Push));
+
 
         }
 
         public void OnCountButtonTapped()
         {
             secondFragment.CountButtonPressed();
+           
         }
 
 
